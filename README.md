@@ -10,6 +10,8 @@
 
 📷 When I'm not coding or conceptualizing app features, you can find me with my camera in the wild, capturing the untamed beauty of nature. I'm an **amateur wildlife photographer**, finding solace and inspiration in the raw, unfiltered essence of the wilderness.
 
+Check out my [portfolio](https://alexanderroizman.com)!
+
 Feel free to reach out, whether it's about coding, brainstorming app ideas, or sharing wildlife photography tips!
 
 
