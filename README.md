@@ -6,7 +6,7 @@
 
 🌱 On the learning front, I'm diving deep into **Node.js** alongside **MongoDB**. Simultaneously, I'm scaling up my skills in **React Native**.
 
-📷 When I'm not coding or conceptualizing app features, you can find me with my camera in the wild. I'm an **wildlife photographer**.
+📷 When I'm not coding, you can find me with my camera in the wild. I'm an **wildlife photographer**.
 
 Check out my [portfolio](https://alexanderroizman.com)!
 
