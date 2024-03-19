@@ -1,14 +1,12 @@
 # 👋 About Me
 
-🎓 I'm on my journey towards earning a degree in **Computer Science and Data Science**, delving into the complexities of algorithms, data structures, and the power of data analysis.
+🎓 I'm on my journey towards earning a degree in **Computer Science and Data Science**.
 
-📱 Currently, I'm channeling my energy into developing **2 mobile apps** using the dynamic duo of **React Native** and **Node.js**. These projects are not just code to me; they're a canvas where I blend creativity with functionality.
+📱 Currently, I'm developing **2 mobile apps** using the **React Native** and **Node.js**.
 
-🌱 On the learning front, I'm diving deep into **Node.js** alongside **MongoDB** to harness the full potential of backend development. Simultaneously, I'm scaling up my skills in **React Native** with Expo, pushing the boundaries of what I can achieve in mobile app development.
+🌱 On the learning front, I'm diving deep into **Node.js** alongside **MongoDB**. Simultaneously, I'm scaling up my skills in **React Native**.
 
-💡 Got a spark of an idea or pondering over potential features for an app? Let's converse! I'm all ears for fresh, innovative concepts and the magic we can create together in the app world.
-
-📷 When I'm not coding or conceptualizing app features, you can find me with my camera in the wild, capturing the untamed beauty of nature. I'm an **amateur wildlife photographer**, finding solace and inspiration in the raw, unfiltered essence of the wilderness.
+📷 When I'm not coding or conceptualizing app features, you can find me with my camera in the wild. I'm an **wildlife photographer**.
 
 Check out my [portfolio](https://alexanderroizman.com)!
 
