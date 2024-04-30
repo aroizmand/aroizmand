@@ -2,7 +2,7 @@
 
 🎓 I'm on my journey towards earning a degree in **Computer Science and Data Science**.
 
-📱 Currently, I'm developing **2 mobile apps** using the **React Native** and **Node.js**.
+📱 Currently, I'm developing **a mobile app** using the **React Native** and **Node.js**.
 
 🌱 On the learning front, I'm diving deep into **Node.js** alongside **MongoDB**. Simultaneously, I'm scaling up my skills in **React Native**.
 
